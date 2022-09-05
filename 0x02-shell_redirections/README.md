@@ -9,4 +9,5 @@
 8. Save current state of directory
 9. Write a script that duplicates the last line of the file iacta
 10. No more javascript
+11. Write a script that counts the number of directories and sub-directories in the current directory
 
